@@ -1,6 +1,7 @@
-# BookInn - Hotel Reservation System
+# BookInn - Hotel Reservation System --> Project for C++ Course
 
 **BookInn** is a C++ command-line hotel reservation system for managing room bookings. The system supports room initialization, making reservations, searching for existing bookings, and viewing the current room status.
+
 
 ## Project Structure
 
